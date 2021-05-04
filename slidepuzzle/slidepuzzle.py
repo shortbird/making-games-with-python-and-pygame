@@ -4,7 +4,7 @@
 # Released under a "Simplified BSD" license
 
 import pygame, sys, random
-from pygame.locals import *
+from pygame import *
 
 # Create the constants (go ahead and experiment with different values)
 BOARDWIDTH = 4  # number of columns in the board

@@ -4,7 +4,7 @@
 # Released under a "Simplified BSD" license
 
 import random, pygame, sys
-from pygame.locals import *
+from pygame import *
 
 FPS = 30 # frames per second, the general speed of the program
 WINDOWWIDTH = 640 # size of window's width in pixels
